@@ -1,6 +1,5 @@
-```
+```diff
 Status:
-diff 
 + Completed
 ```
 
